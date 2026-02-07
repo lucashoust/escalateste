@@ -1,0 +1,7 @@
+body{font-family:Arial;background:#fff;padding:20px}
+h1{background:#c40000;color:#fff;padding:10px}
+table{border-collapse:collapse;width:100%}
+td,th{border:1px solid #ccc;text-align:center;padding:5px}
+.ferias{background:#ffe5e5;color:red;font-weight:bold}
+.admin section{background:#fff8e1;border-left:5px solid #f5c400;padding:10px;margin:15px 0}
+button{background:#c40000;color:#fff;border:none;padding:8px;cursor:pointer}
